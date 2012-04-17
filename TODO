@@ -1,0 +1,17 @@
+TODO: 
+ - Add install script allowing the user to select Light, Dark, or "Kawaii" colors
+ - Add script for generating right-click menu based on installed system's Applications
+ - Re-Write status.sh to check for alternate sound systems other than ALSA
+
+
+Below this line is the original README from Window Manager From Scratch.
+Out of respect to Martin Duquesnoy (xorg62) and everyone else involved
+I am preserving the original data below a line in every file that gives
+information about the WMFS project.
+----------------------------------
+
+  · Add Doxygen comment <-> OK
+  · Mouse bindings in the config file
+  · Can change client position in the tile grid
+  · Fix all the bug \o/
+  · XCB ?

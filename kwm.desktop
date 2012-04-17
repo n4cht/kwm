@@ -1,0 +1,5 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=kwm
+Comment=Kawaii Window Manager a WMFS Fork
+Exec=ck-launch-session kwm
